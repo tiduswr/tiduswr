@@ -1,6 +1,7 @@
 <a href="https://github.com/tiduswr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiduswr&theme=dracula&show_icons=true" align="right" />
 </a>
+
 <h3> :man: &nbsp;Sobre mim </h1>
 
 - 📚 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -8,6 +9,10 @@
 - 🌱 &nbsp; Aprendendo mais sobre Java Web com Spring MVC e APIs.
 
 <h3> :rocket: &nbsp;Minhas Skills </h1>
+
+<a href="https://github.com/tiduswr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiduswr&layout=compact&langs_count=7&theme=dracula" align="right"/>
+</a>
 
 <p align="left">
   🌐 Linguagens: <br>
@@ -28,9 +33,11 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 </p>
 
-<p align="left">
-  💌 Redes Sociais: ⤵️
-</p>
+<h3> 
+  <p align="left">
+    💌 Redes Sociais: ⤵️
+  </p>
+</h1>
 
 <p align="left">
   <a href="https://br.linkedin.com/in/harllemnascimento" target="_blank" alt="Linkedin">
