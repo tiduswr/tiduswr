@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h1>
 
 - 📚 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando Ciências da Computaão na <a href="https://uepb.edu.br/">UEPB</a>.
+- 🎓 &nbsp; Cursando Ciências da Computação na <a href="https://uepb.edu.br/">UEPB</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Java Web com Spring MVC e APIs.
 
 <h3> :rocket: &nbsp;Minhas Skills </h1>
