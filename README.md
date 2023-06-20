@@ -47,5 +47,5 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/harllemnascimento"/>
 
   <a href="https://www.instagram.com/harllem_twr/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/harllem_twr/"/>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tidus.wr/"/>
 </p>
