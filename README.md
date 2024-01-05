@@ -5,8 +5,7 @@
 <h3> :man: &nbsp;Sobre mim </h1>
 
 - 📚 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando 9º período do curso de Ciências da Computação na <a href="https://uepb.edu.br/">UEPB</a>.
-- 🌱 &nbsp; Aprendendo mais sobre Desenvolvimento Web com Spring Boot, ReactJS e Docker.
+- 🌱 &nbsp; Aprendendo mais sobre Desenvolvimento Web e DevOps com Spring Boot, ReactJS e Docker.
 
 <h3> :rocket: &nbsp;Minhas Skills </h1>
 
