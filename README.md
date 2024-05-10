@@ -1,5 +1,5 @@
 <a href="https://github.com/tiduswr">
-  <img height="180em" src="https://github-readme-stats-ei42b6jv7-tiduswr.vercel.app/api?username=tiduswr&theme=dracula&show_icons=true" align="right" />
+  <img height="180em" src="https://github-readme-stats-59aantk3b-tiduswrs-projects.vercel.app/api?username=tiduswr&theme=dracula&show_icons=true" align="right" />
 </a>
 
 <h3> :man: &nbsp;Sobre mim </h1>
@@ -10,7 +10,7 @@
 <h3> :rocket: &nbsp;Minhas Skills </h1>
 
 <a href="https://github.com/tiduswr">
-  <img height="180em" src="https://github-readme-stats-ei42b6jv7-tiduswr.vercel.app/api/top-langs/?username=tiduswr&layout=compact&langs_count=7&theme=dracula" align="right"/>
+  <img height="180em" src="https://github-readme-stats-59aantk3b-tiduswrs-projects.vercel.app/api/top-langs/?username=tiduswr&layout=compact&langs_count=7&theme=dracula" align="right"/>
 </a>
 
 <p align="left">
