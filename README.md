@@ -8,10 +8,10 @@ Meu nome é Harllem Nascimento, sou formado em Ciência da Computação pela UEP
 
 <div align="center">
     <a href="https://github.com/tiduswr">
-    <img height="180em" src="https://github-readme-stats-3mfuk17ge-tiduswrs-projects.vercel.app/api?username=tiduswr&theme=dracula&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats-five-opal-23.vercel.app/api?username=tiduswr&theme=dracula&show_icons=true" />
   </a>
   <a href="https://github.com/tiduswr">
-    <img height="180em" src="https://github-readme-stats-3mfuk17ge-tiduswrs-projects.vercel.app/api/top-langs/?username=tiduswr&layout=compact&langs_count=7&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats-five-opal-23.vercel.app/api/top-langs/?username=tiduswr&layout=compact&langs_count=7&theme=dracula" />
   </a>
 </div>
 
